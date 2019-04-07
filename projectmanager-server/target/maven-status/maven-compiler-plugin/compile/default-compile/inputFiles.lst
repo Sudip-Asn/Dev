@@ -1,0 +1,17 @@
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\service\ProjectManagerService.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\entity\User.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\repository\ProjectManagerRepository.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\entity\Project.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\entity\ParentTask.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\bo\ProjectVO.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\repository\ParentTaskManagerRepository.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\controller\ProjectManagerController.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\filter\CORSFilter.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\bo\TaskVO.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\service\impl\ProjectManagerServiceImpl.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\Application.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\bo\ParentTaskVO.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\repository\UserManagerRepository.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\entity\Task.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\bo\UserVO.java
+C:\Users\SUDIP\git\FSD\projectmanager-parent\projectmanager-server\src\main\java\com\sudip\springboot\repository\TaskManagerRepository.java
